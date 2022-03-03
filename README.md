@@ -83,8 +83,8 @@ An example:
 ```
 Predictions are saved in ./predictions with as csv files with filenames_field_used_for_training.csv  
 **predicted values are in range [-1,1]** <br />
-**Be sure to use the right model for predictions (i.e. correct language according to fine-tuned models)**
-**Prediction is **
+**Be sure to use the right model for predictions (i.e. multilingual or english fine-tuned model according to language of the input file you provide )**
+
 
 ###  File Structure
 An example of how the file structure should look like
